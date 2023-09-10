@@ -8,7 +8,6 @@
         <artifactId>microservices-new</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-
     <artifactId>api-gateway</artifactId>
 
     <properties>
